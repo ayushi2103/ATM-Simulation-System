@@ -5,9 +5,9 @@
 //		CONCEPTS:		OBJECT ORIENTED + DATA STRUCTURES
 //		DESIGN MENU:	CRUD OPERATIONS MOSTLY
 //		DATABASE:		FILING
-//		DESCRIPTION: The following system simulates the ATM using the filing
-//		it consists on creating accounts, managing accounts and managing data
-//		IT handles the operations like: WITHDRAW, DEPOSIT and INQUIRIES OF ACCOUNTS
+//		DESCRIPTION: The following system simulates the ATM using filing.
+//		It consists of creating accounts, managing accounts and data
+//		It handles the operations like: WITHDRAW, DEPOSIT and INQUIRIES OF ACCOUNTS
 //
 //************************************************************************************/
 
